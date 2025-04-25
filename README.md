@@ -115,8 +115,8 @@ Bit Error Rate is calculated based on modulation scheme:
 
 ### Results 
 
-1. [[result-1.png](https://github.com/Mounishkr/OptiWeather/blob/5a790c687be1ae952096b511e78387a684ccf71f/result-3.png)]
-2. [result-2.png]
+1. [result-1.png](https://github.com/Mounishkr/OptiWeather/blob/5a790c687be1ae952096b511e78387a684ccf71f/result-3.png)
+2. [(https://github.com/Mounishkr/OptiWeather/blob/6dc9115b10f1d387ef5bdf829ee81ddcb55df774/result-2.png)]
 3. [result-3.png]
 
 
